@@ -1,0 +1,11 @@
+.DS_Store
+.env*
+*.pdf
+*.xlsx
+*.zip
+*.pptx
+*.docx
+*.sqlite*
+*.bak
+node_modules/
+.venv/
